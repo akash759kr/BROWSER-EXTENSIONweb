@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../../Spotify Clone"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../spotify"
+		},
+		{
+			"path": "../../TINDOG"
+		},
+		{
+			"path": "../../TRAVEL-APP-BACKEND"
+		},
+		{
+			"path": "../../Travel_App_Backend_GFG_Student_Version"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "TINDOG"
+	}
+}
